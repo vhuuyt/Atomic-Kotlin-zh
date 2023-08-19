@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/github/actions/workflow/status/vhuuyt/Atomic-Kotlin_zh/mdbook.yml?branch=master"/>
   </a>
   <a>
-    <img src="https://img.shields.io/badge/finished-15%2F97-red"/>
+    <img src="https://img.shields.io/badge/finished-53%2F96-red"/>
   </a>
 </p>
 
