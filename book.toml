@@ -1,5 +1,7 @@
 [book]
+title = "Atomic-Kotlin-中文-译本"
 authors = []
 language = "zh"
 multilingual = true
 src = "src"
+description = "Atomic Kotlin 中文 翻译版 by ChatGPT"
