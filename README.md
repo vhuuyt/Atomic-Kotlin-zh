@@ -14,4 +14,9 @@
 
 因为是用ChatGPT翻译的，所以，错误什么的还请理解。
 
-> 还没施工完，比较懒，且不咋会玩gayhub，随缘更新啦
+> 施工完了，错误请告诉我，(୨୧•͈ᴗ•͈)◞ᵗʱᵃᵑᵏઽ
+
+### 本地运行
+
+1. 需要安装 [mdbook](https://github.com/rust-lang/mdBook/releases/) 的，就没了
+2. 终端输入 `mdbook serve --open`，就会帮你打开浏览器，剩下就看书
